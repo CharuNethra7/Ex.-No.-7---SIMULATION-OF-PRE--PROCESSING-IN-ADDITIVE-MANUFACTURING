@@ -45,8 +45,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![OP1](https://github.com/user-attachments/assets/161c7b0e-3472-4337-a4c0-b417fb8b3d03)
+
+![OP2](https://github.com/user-attachments/assets/f3f6a5d7-9878-4c1d-a130-80c80cf4e902)
+
+### Name: CHARU NETHRA R
+### Register Number: 212223230035
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
